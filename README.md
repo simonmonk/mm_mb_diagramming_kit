@@ -5,8 +5,6 @@ You'll need InkScape (https://inkscape.org) or some othr SVG file editor.
 
 Download the file mm_mb_diagraming_kit.svg and follow the instructions it contains to make your own diagrams.
 
-![GitHub Logo](/images/logo.png)
+![https://github.com/simonmonk/mm_mb_diagramming_kit/blob/master/non_svg.png](https://github.com/simonmonk/mm_mb_diagramming_kit/blob/master/non_svg.png)
 
-![/blob/master/non_svg.png](/blob/master/non_svg.png)
-
-[https://github.com/simonmonk/mm_mb_diagramming_kit/blob/master/mm_mb_diagraming_kit.svg]
+https://github.com/simonmonk/mm_mb_diagramming_kit/blob/master/mm_mb_diagraming_kit.svg
