@@ -46,7 +46,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.70864134"
      inkscape:cx="255.17308"
-     inkscape:cy="418.88385"
+     inkscape:cy="80.207588"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -71,7 +71,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -414,7 +414,7 @@
     <path
        inkscape:connector-curvature="0"
        id="path1287"
-       d="m 740,1048.6446 c -64.99997,45.875 -136.20482,-22.4609 -137.68241,-12.3036"
+       d="m 740,1048.6446 c -64.99997,45.875 -150.20482,-26.4609 -151.68241,-16.3036"
        style="fill:none;fill-rule:evenodd;stroke:#b00712;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        sodipodi:nodetypes="cc" />
     <path
@@ -585,5 +585,76 @@
        d="m 385.18117,833.41763 c -19.18115,-52.89801 36.81885,-52.89801 36.81885,-2.89801"
        style="fill:none;fill-rule:evenodd;stroke:#e6e6e0;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        sodipodi:nodetypes="cc" />
+    <image
+       y="1097.5197"
+       x="-312"
+       id="image103"
+       xlink:href="data:image/png;base64,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
+AABJRU5ErkJggg==
+"
+       preserveAspectRatio="none"
+       height="116"
+       width="87" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-321.16727"
+       y="1074.5577"
+       id="text108"><tspan
+         sodipodi:role="line"
+         id="tspan106"
+         x="-321.16727"
+         y="1074.5577"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Generic computer</tspan></text>
   </g>
 </svg>
